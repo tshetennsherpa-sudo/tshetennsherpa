@@ -23,8 +23,8 @@ I am a **Software Developer** focused on building clean, functional, and user-ce
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=radical" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tshetenn.sherpa&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tshetenn.sherpa&layout=compact&theme=radical" alt="Languages" />
 </p>
 
 ### 📬 Connect with me:
